@@ -21,7 +21,7 @@ wmname LG3D &
 
 picom &
 dunst &
-feh --bg-scale /home/doubledickdude/Pictures/girl.jpg &
+feh --bg-scale $HOME/Pictures/girl.jpg &
 xset led 3 &
 ~/.config/polybar/launch.sh &
 /usr/lib/kdeconnectd &
